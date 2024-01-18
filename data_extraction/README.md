@@ -13,6 +13,7 @@ To run this code, please download the data files (each corresponding to a single
 
 e.g. 
 work_dir_trial_1 =  '/data/zebrafish/230820/Fish2_1/stitched/aligned_layers'
+
 work_dir_trial_2 =  '/data/zebrafish/230820/Fish2_2/stitched/aligned_layers'
 
 You can then replace these directory names in runScript_Volpy_Batch1.py to run the script.
