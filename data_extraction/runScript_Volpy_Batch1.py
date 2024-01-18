@@ -5,7 +5,6 @@
 """
 
 from fish_single_layer_manual import volpy_process_session
-volpy_process_session
 
 work_dir_trial_1 =  '/data/zebrafish/230820/Fish2_1/stitched/aligned_layers'
 work_dir_trial_2 =  '/data/zebrafish/230820/Fish2_2/stitched/aligned_layers'
