@@ -1,1 +1,3 @@
+## Cellpose model
 
+The provided model was trained on 30 layers of voltage imaging data from one example fish. To test the model for your own data, open the cellpose GUI and load your data. Then in the "Models" dropdown menu, select "Add custom torch model to GUI" and load the model. Afterwards select the model in the dropdown menu under "Other models". You can then tune customized parameters such as diameter, flow threshold and cellprob threshold if you wish and click "run" to see the segmentation results. 
